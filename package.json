@@ -1,0 +1,12 @@
+{
+  "id": "alegra",
+  "name": "Alegra",
+  "version": "1.0.0",
+  "description": "Servicio contable para pymes.",
+  "main": "index.js",
+  "author": "Ignacio Aroche <contacto@morfema.com.mx>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.alegra.com/user/login"
+  }
+}
